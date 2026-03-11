@@ -1,0 +1,2 @@
+- fetch_data pulls data from football-data api
+- fetch_capacities gets stadium capacity data since football-data api does not return it
