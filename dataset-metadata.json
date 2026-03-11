@@ -1,0 +1,76 @@
+{
+  "title": "Top 5 European Football Leagues Dataset",
+  "description": "Comprehensive dataset of top 5 European football leagues including matches, players, teams, and more.",
+  "keywords": [
+    "football",
+    "soccer",
+    "sports",
+    "european leagues",
+    "football-data.org"
+  ],
+  "license": "CC0: Public Domain",
+  "last_updated": "2025-05-06",
+  "source": "football-data.org API",
+  "tables": [
+    {
+      "name": "matches",
+      "rows": 1752,
+      "columns": 8,
+      "description": "Contains all match information including scores, dates, and teams"
+    },
+    {
+      "name": "players",
+      "rows": 3150,
+      "columns": 6,
+      "description": "Player information including personal details and team affiliations"
+    },
+    {
+      "name": "teams",
+      "rows": 96,
+      "columns": 7,
+      "description": "Team information including names, leagues, and statistics"
+    },
+    {
+      "name": "leagues",
+      "rows": 5,
+      "columns": 8,
+      "description": "League information including country and competition details"
+    },
+    {
+      "name": "coaches",
+      "rows": 96,
+      "columns": 4,
+      "description": "Coach information including team affiliations"
+    },
+    {
+      "name": "referees",
+      "rows": 132,
+      "columns": 3,
+      "description": "Referee information for matches"
+    },
+    {
+      "name": "stadiums",
+      "rows": 94,
+      "columns": 4,
+      "description": "Stadium information including capacity and location"
+    },
+    {
+      "name": "standings",
+      "rows": 96,
+      "columns": 14,
+      "description": "Data from standings table"
+    },
+    {
+      "name": "scores",
+      "rows": 1752,
+      "columns": 6,
+      "description": "Detailed match scores and statistics"
+    },
+    {
+      "name": "seasons",
+      "rows": 5,
+      "columns": 3,
+      "description": "Season information and competition details"
+    }
+  ]
+}

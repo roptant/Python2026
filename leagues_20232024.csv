@@ -1,0 +1,6 @@
+league_id,name,country,country_id,icon_url,cl_spot,uel_spot,relegation_spot
+1,Premier League,England,1,https://crests.football-data.org/PL.png,4,6,3
+2,Serie A,Italy,2,https://crests.football-data.org/SA.png,4,5,3
+3,Primera Division,Spain,3,https://crests.football-data.org/PD.png,4,5,3
+4,Bundesliga,Germany,4,https://crests.football-data.org/BL1.png,4,5,3
+5,Ligue 1,France,5,https://crests.football-data.org/FL1.png,3,4,3
